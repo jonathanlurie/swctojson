@@ -1,7 +1,8 @@
 {
   "name": "swctojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert SWC files to JSON",
+  "repository": "https://github.com/jonathanlurie/swctojson",
   "main": "index.js",
   "bin": {
     "swctojson": "./bin/convert.js"
