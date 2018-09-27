@@ -1,0 +1,18 @@
+{
+  "name": "swctojson",
+  "version": "1.0.0",
+  "description": "convert SWC files to JSON",
+  "main": "index.js",
+  "bin": {
+    "swctojson": "./bin/convert.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Joanthan Lurie",
+  "license": "Apache License 2",
+  "dependencies": {
+    "swcmorphologyparser": "^0.1.4"
+  }
+}
